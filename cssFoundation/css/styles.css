@@ -1,7 +1,30 @@
-div {
+/* div {
     background-color: red;
     color: white;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+} */
+
+body{
+    font: sans-serif;
+}
+
+.odd-elements{
+    background-color: pink;
+    font: verdana;
+}
+
+.odd-elements.second{
+    font-size: 24px;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;;
+}
+
+#four{
+    background-color: greenyellow;
+    font-size: 24px;
 }
