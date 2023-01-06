@@ -6,9 +6,9 @@
     font-weight: bold;
 } */
 
-body{
+/* body{
     font: sans-serif;
-}
+} */
 /*
 .odd-elements{
     background-color: pink;
@@ -29,11 +29,9 @@ body{
     font-size: 24px;
 } */
 
-.Buttons{
+/* .Buttons{
     font-size: 28px;
     font-family: 'Times New Roman', sans-serif;
-    display: grid;
-    grid-template-columns: "1fr 1fr";
 }
 
 .Buttons > .Y{
@@ -44,4 +42,15 @@ body{
 .Buttons > .B{
     background-color: yellow;
 
+} */
+
+
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
 }
